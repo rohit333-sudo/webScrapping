@@ -1,0 +1,22 @@
+{
+  "name": "p_1",
+  "version": "1.0.0",
+  "main": "CricinfoExtracter.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "edge-paths": "^2.2.1",
+    "excel4node": "^1.7.2",
+    "jsdom": "^18.1.0",
+    "minimist": "^1.2.5",
+    "pdf-lib": "^1.17.1",
+    "puppeteer-core": "^13.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
